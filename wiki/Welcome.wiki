@@ -1,6 +1,8 @@
 #labels welocome
 = Wiki Welcome Page =
-Soon will be released the code. Please return back in few days.
 
-ThankYou
+Soon will be released all the avaiable code. 
 
+Please return back in few days.
+
+Thank You!
