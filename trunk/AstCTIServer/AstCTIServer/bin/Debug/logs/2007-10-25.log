@@ -1,0 +1,521 @@
+2007-10-25 05.22.00 - INFO  : Testing database connection
+2007-10-25 05.22.00 - DEBUG : Connecting to database on: 192.168.254.79
+2007-10-25 05.22.02 - DEBUG : Database connection successful
+2007-10-25 05.22.02 - DEBUG : Server can start
+2007-10-25 05.22.02 - NOTICE: Starting MainServer
+2007-10-25 05.22.02 - DEBUG : In SocketManager::Connect()
+2007-10-25 05.22.02 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-25 05.22.02 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 05.22.02 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 05.22.30 - INFO  : New Connection (#1) from 127.0.0.1:1054 accepted
+2007-10-25 05.22.30 - NOTICE: ClientManager initialized for 127.0.0.1:1054
+2007-10-25 05.22.30 - NOTICE: ClientManager started for 127.0.0.1:1054
+2007-10-25 05.24.30 - INFO  : Testing database connection
+2007-10-25 05.24.30 - DEBUG : Connecting to database on: 192.168.254.79
+2007-10-25 05.24.30 - DEBUG : Database connection successful
+2007-10-25 05.24.30 - DEBUG : Server can start
+2007-10-25 05.24.30 - NOTICE: Starting MainServer
+2007-10-25 05.24.30 - DEBUG : In SocketManager::Connect()
+2007-10-25 05.24.30 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 05.24.30 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-25 05.24.30 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 05.24.35 - INFO  : New Connection (#1) from 127.0.0.1:1058 accepted
+2007-10-25 05.24.35 - NOTICE: ClientManager initialized for 127.0.0.1:1058
+2007-10-25 05.24.35 - NOTICE: ClientManager started for 127.0.0.1:1058
+2007-10-25 05.26.41 - INFO  : Testing database connection
+2007-10-25 05.26.41 - DEBUG : Connecting to database on: 192.168.254.79
+2007-10-25 05.26.41 - DEBUG : Database connection successful
+2007-10-25 05.26.42 - DEBUG : Server can start
+2007-10-25 05.26.42 - NOTICE: Starting MainServer
+2007-10-25 05.26.42 - DEBUG : In SocketManager::Connect()
+2007-10-25 05.26.42 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-25 05.26.42 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 05.26.42 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 05.27.12 - INFO  : New Connection (#1) from 127.0.0.1:1061 accepted
+2007-10-25 05.27.12 - NOTICE: ClientManager initialized for 127.0.0.1:1061
+2007-10-25 05.27.12 - NOTICE: ClientManager started for 127.0.0.1:1061
+2007-10-25 05.27.34 - DEBUG : In SocketManager::Connect()
+2007-10-25 05.27.35 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 05.27.35 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 05.51.03 - INFO  : Testing database connection
+2007-10-25 05.51.03 - DEBUG : Connecting to database on: 192.168.254.79
+2007-10-25 05.51.03 - DEBUG : Database connection successful
+2007-10-25 05.51.03 - DEBUG : Server can start
+2007-10-25 05.51.03 - NOTICE: Starting MainServer
+2007-10-25 05.51.03 - DEBUG : In SocketManager::Connect()
+2007-10-25 05.51.03 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-25 05.51.04 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 05.51.04 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 05.51.19 - INFO  : New Connection (#1) from 127.0.0.1:1131 accepted
+2007-10-25 05.51.19 - NOTICE: ClientManager initialized for 127.0.0.1:1131
+2007-10-25 05.51.19 - NOTICE: ClientManager started for 127.0.0.1:1131
+2007-10-25 05.53.14 - DEBUG : Newchannel - 1193284385.1 {
+	Channel     : SIP/300-08215ec8
+	Uniqueid    : 1193284385.1
+}
+
+2007-10-25 05.53.33 - DEBUG : Hangup - 1193284385.1 {
+	Channel     : SIP/300-08215ec8
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193284385.1
+}
+
+2007-10-25 05.54.28 - DEBUG : Newchannel - 1193284459.2 {
+	Channel     : SIP/300-08212758
+	Uniqueid    : 1193284459.2
+}
+
+2007-10-25 05.54.31 - DEBUG : Newchannel - 1193284462.3 {
+	Channel     : SIP/301-08218278
+	Uniqueid    : 1193284462.3
+}
+
+2007-10-25 05.54.34 - DEBUG : Link - 1193284462.3 {
+	Channel     : SIP/301-08218278
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193284462.3
+}
+
+2007-10-25 05.54.37 - DEBUG : Hangup - 1193284462.3 {
+	Channel     : SIP/301-08218278
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193284462.3
+}
+
+2007-10-25 05.54.37 - DEBUG : Hangup - 1193284459.2 {
+	Channel     : SIP/300-08212758
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193284459.2
+}
+
+2007-10-25 05.55.38 - DEBUG : Newchannel - 1193284529.4 {
+	Channel     : SIP/300-08212758
+	Uniqueid    : 1193284529.4
+}
+
+2007-10-25 05.55.41 - DEBUG : Hangup - 1193284529.4 {
+	Channel     : SIP/300-08212758
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193284529.4
+}
+
+2007-10-25 05.56.15 - DEBUG : Newchannel - 1193284566.5 {
+	Channel     : SIP/300-08212758
+	Uniqueid    : 1193284566.5
+}
+
+2007-10-25 05.56.18 - DEBUG : Hangup - 1193284566.5 {
+	Channel     : SIP/300-08212758
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193284566.5
+}
+
+2007-10-25 05.57.15 - NOTICE: Client Socket timeout
+2007-10-25 05.57.15 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 05.57.15 - NOTICE: Number of clients connected: 0
+2007-10-25 05.59.39 - DEBUG : Newchannel - 1193284770.6 {
+	Channel     : SIP/300-08215c00
+	Uniqueid    : 1193284770.6
+}
+
+2007-10-25 05.59.42 - DEBUG : Newchannel - 1193284773.7 {
+	Channel     : SIP/301-08214678
+	Uniqueid    : 1193284773.7
+}
+
+2007-10-25 05.59.45 - DEBUG : Hangup - 1193284773.7 {
+	Channel     : SIP/301-08214678
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193284773.7
+}
+
+2007-10-25 05.59.47 - DEBUG : Hangup - 1193284770.6 {
+	Channel     : SIP/300-08215c00
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193284770.6
+}
+
+2007-10-25 06.04.03 - INFO  : Testing database connection
+2007-10-25 06.04.03 - DEBUG : Connecting to database on: 192.168.254.79
+2007-10-25 06.04.04 - DEBUG : Database connection successful
+2007-10-25 06.04.04 - DEBUG : Server can start
+2007-10-25 06.04.04 - NOTICE: Starting MainServer
+2007-10-25 06.04.04 - DEBUG : In SocketManager::Connect()
+2007-10-25 06.04.04 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-25 06.04.04 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 06.04.04 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 06.09.00 - INFO  : Testing database connection
+2007-10-25 06.09.00 - DEBUG : Connecting to database on: 192.168.254.79
+2007-10-25 06.09.00 - DEBUG : Database connection successful
+2007-10-25 06.09.00 - DEBUG : Server can start
+2007-10-25 06.09.00 - NOTICE: Starting MainServer
+2007-10-25 06.09.00 - DEBUG : In SocketManager::Connect()
+2007-10-25 06.09.00 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-25 06.09.00 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-25 06.09.00 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-25 06.11.40 - INFO  : New Connection (#1) from 127.0.0.1:1186 accepted
+2007-10-25 06.11.40 - NOTICE: ClientManager initialized for 127.0.0.1:1186
+2007-10-25 06.11.40 - NOTICE: ClientManager started for 127.0.0.1:1186
+2007-10-25 06.12.05 - NOTICE: Client Socket timeout
+2007-10-25 06.12.05 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.12.05 - NOTICE: Number of clients connected: 0
+2007-10-25 06.19.38 - INFO  : New Connection (#2) from 127.0.0.1:1188 accepted
+2007-10-25 06.19.38 - NOTICE: ClientManager initialized for 127.0.0.1:1188
+2007-10-25 06.19.38 - NOTICE: ClientManager started for 127.0.0.1:1188
+2007-10-25 06.19.58 - NOTICE: Client Socket timeout
+2007-10-25 06.19.58 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.19.58 - NOTICE: Number of clients connected: 0
+2007-10-25 06.20.38 - INFO  : New Connection (#3) from 127.0.0.1:1189 accepted
+2007-10-25 06.20.38 - NOTICE: ClientManager initialized for 127.0.0.1:1189
+2007-10-25 06.20.38 - NOTICE: ClientManager started for 127.0.0.1:1189
+2007-10-25 06.20.46 - DEBUG : Newchannel - 1193286036.8 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193286036.8
+}
+
+2007-10-25 06.20.48 - DEBUG : Newchannel - 1193286039.9 {
+	Channel     : SIP/301-08218c80
+	Uniqueid    : 1193286039.9
+}
+
+2007-10-25 06.20.51 - DEBUG : Link - 1193286039.9 {
+	Channel     : SIP/301-08218c80
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193286039.9
+}
+
+2007-10-25 06.20.54 - DEBUG : Hangup - 1193286039.9 {
+	Channel     : SIP/301-08218c80
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193286039.9
+}
+
+2007-10-25 06.20.54 - DEBUG : Hangup - 1193286036.8 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193286036.8
+}
+
+2007-10-25 06.21.08 - NOTICE: Client Socket timeout
+2007-10-25 06.21.08 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.21.08 - NOTICE: Number of clients connected: 0
+2007-10-25 06.25.11 - INFO  : New Connection (#4) from 127.0.0.1:1192 accepted
+2007-10-25 06.25.11 - NOTICE: ClientManager initialized for 127.0.0.1:1192
+2007-10-25 06.25.11 - NOTICE: ClientManager started for 127.0.0.1:1192
+2007-10-25 06.25.18 - NOTICE: Client Socket timeout
+2007-10-25 06.25.18 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.25.18 - NOTICE: Number of clients connected: 0
+2007-10-25 06.25.29 - INFO  : New Connection (#5) from 127.0.0.1:1193 accepted
+2007-10-25 06.25.29 - NOTICE: ClientManager initialized for 127.0.0.1:1193
+2007-10-25 06.25.29 - NOTICE: ClientManager started for 127.0.0.1:1193
+2007-10-25 06.25.36 - NOTICE: Client Socket timeout
+2007-10-25 06.25.36 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.25.36 - NOTICE: Number of clients connected: 0
+2007-10-25 06.25.53 - INFO  : New Connection (#6) from 127.0.0.1:1194 accepted
+2007-10-25 06.25.53 - NOTICE: ClientManager initialized for 127.0.0.1:1194
+2007-10-25 06.25.53 - NOTICE: ClientManager started for 127.0.0.1:1194
+2007-10-25 06.25.59 - NOTICE: Client Socket timeout
+2007-10-25 06.25.59 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.25.59 - NOTICE: Number of clients connected: 0
+2007-10-25 06.28.23 - INFO  : New Connection (#7) from 127.0.0.1:1196 accepted
+2007-10-25 06.28.23 - NOTICE: ClientManager initialized for 127.0.0.1:1196
+2007-10-25 06.28.23 - NOTICE: ClientManager started for 127.0.0.1:1196
+2007-10-25 06.28.34 - DEBUG : Newchannel - 1193286505.10 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193286505.10
+}
+
+2007-10-25 06.28.39 - DEBUG : Newchannel - 1193286509.11 {
+	Channel     : SIP/301-082185e8
+	Uniqueid    : 1193286509.11
+}
+
+2007-10-25 06.28.41 - DEBUG : Hangup - 1193286509.11 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193286509.11
+}
+
+2007-10-25 06.28.42 - DEBUG : Hangup - 1193286505.10 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193286505.10
+}
+
+2007-10-25 06.28.48 - NOTICE: Client Socket timeout
+2007-10-25 06.28.48 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 06.28.48 - NOTICE: Number of clients connected: 0
+2007-10-25 07.07.06 - INFO  : New Connection (#8) from 127.0.0.1:1226 accepted
+2007-10-25 07.07.06 - NOTICE: ClientManager initialized for 127.0.0.1:1226
+2007-10-25 07.07.06 - NOTICE: ClientManager started for 127.0.0.1:1226
+2007-10-25 07.07.14 - DEBUG : Newchannel - 1193288825.12 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193288825.12
+}
+
+2007-10-25 07.07.16 - DEBUG : Newchannel - 1193288827.13 {
+	Channel     : SIP/301-082185e8
+	Uniqueid    : 1193288827.13
+}
+
+2007-10-25 07.07.18 - DEBUG : Link - 1193288827.13 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193288827.13
+}
+
+2007-10-25 07.07.20 - DEBUG : Hangup - 1193288827.13 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193288827.13
+}
+
+2007-10-25 07.07.20 - DEBUG : Hangup - 1193288825.12 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193288825.12
+}
+
+2007-10-25 07.07.38 - NOTICE: Client Socket timeout
+2007-10-25 07.07.38 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.07.38 - NOTICE: Number of clients connected: 0
+2007-10-25 07.09.05 - INFO  : New Connection (#9) from 127.0.0.1:1229 accepted
+2007-10-25 07.09.05 - NOTICE: ClientManager initialized for 127.0.0.1:1229
+2007-10-25 07.09.05 - NOTICE: ClientManager started for 127.0.0.1:1229
+2007-10-25 07.09.13 - DEBUG : Newchannel - 1193288943.14 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193288943.14
+}
+
+2007-10-25 07.09.15 - DEBUG : Newchannel - 1193288945.15 {
+	Channel     : SIP/300-082185e8
+	Uniqueid    : 1193288945.15
+}
+
+2007-10-25 07.09.21 - DEBUG : Link - 1193288945.15 {
+	Channel     : SIP/300-082185e8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193288945.15
+}
+
+2007-10-25 07.09.26 - DEBUG : Hangup - 1193288945.15 {
+	Channel     : SIP/300-082185e8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193288945.15
+}
+
+2007-10-25 07.09.26 - DEBUG : Hangup - 1193288943.14 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193288943.14
+}
+
+2007-10-25 07.09.33 - DEBUG : Newchannel - 1193288963.16 {
+	Channel     : SIP/300-08215c00
+	Uniqueid    : 1193288963.16
+}
+
+2007-10-25 07.09.36 - DEBUG : Newchannel - 1193288966.17 {
+	Channel     : SIP/301-0821c688
+	Uniqueid    : 1193288966.17
+}
+
+2007-10-25 07.09.38 - DEBUG : Link - 1193288966.17 {
+	Channel     : SIP/301-0821c688
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193288966.17
+}
+
+2007-10-25 07.09.40 - DEBUG : Hangup - 1193288966.17 {
+	Channel     : SIP/301-0821c688
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193288966.17
+}
+
+2007-10-25 07.09.40 - DEBUG : Hangup - 1193288963.16 {
+	Channel     : SIP/300-08215c00
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193288963.16
+}
+
+2007-10-25 07.09.58 - NOTICE: Client Socket timeout
+2007-10-25 07.09.58 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.09.58 - NOTICE: Number of clients connected: 0
+2007-10-25 07.10.35 - INFO  : New Connection (#10) from 127.0.0.1:1232 accepted
+2007-10-25 07.10.35 - NOTICE: ClientManager initialized for 127.0.0.1:1232
+2007-10-25 07.10.35 - NOTICE: ClientManager started for 127.0.0.1:1232
+2007-10-25 07.10.55 - DEBUG : Newchannel - 1193289045.18 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193289045.18
+}
+
+2007-10-25 07.10.59 - DEBUG : Newchannel - 1193289049.19 {
+	Channel     : SIP/301-082185e8
+	Uniqueid    : 1193289049.19
+}
+
+2007-10-25 07.11.00 - DEBUG : Link - 1193289049.19 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193289049.19
+}
+
+2007-10-25 07.11.03 - DEBUG : Hangup - 1193289049.19 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193289049.19
+}
+
+2007-10-25 07.11.03 - DEBUG : Hangup - 1193289045.18 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193289045.18
+}
+
+2007-10-25 07.11.22 - NOTICE: Client Socket timeout
+2007-10-25 07.11.22 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.11.22 - NOTICE: Number of clients connected: 0
+2007-10-25 07.12.48 - INFO  : New Connection (#11) from 127.0.0.1:1235 accepted
+2007-10-25 07.12.48 - NOTICE: ClientManager initialized for 127.0.0.1:1235
+2007-10-25 07.12.48 - NOTICE: ClientManager started for 127.0.0.1:1235
+2007-10-25 07.13.16 - NOTICE: Client Socket timeout
+2007-10-25 07.13.16 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.13.16 - NOTICE: Number of clients connected: 0
+2007-10-25 07.27.32 - INFO  : New Connection (#12) from 127.0.0.1:1237 accepted
+2007-10-25 07.27.32 - NOTICE: ClientManager initialized for 127.0.0.1:1237
+2007-10-25 07.27.32 - NOTICE: ClientManager started for 127.0.0.1:1237
+2007-10-25 07.27.42 - DEBUG : Newchannel - 1193290053.20 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193290053.20
+}
+
+2007-10-25 07.27.50 - DEBUG : Newchannel - 1193290060.21 {
+	Channel     : SIP/301-082185e8
+	Uniqueid    : 1193290060.21
+}
+
+2007-10-25 07.27.52 - DEBUG : Link - 1193290060.21 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193290060.21
+}
+
+2007-10-25 07.27.53 - DEBUG : Hangup - 1193290060.21 {
+	Channel     : SIP/301-082185e8
+	CallerIDNum : 301
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193290060.21
+}
+
+2007-10-25 07.27.53 - DEBUG : Hangup - 1193290053.20 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193290053.20
+}
+
+2007-10-25 07.27.58 - NOTICE: Client Socket timeout
+2007-10-25 07.27.58 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.27.58 - NOTICE: Number of clients connected: 0
+2007-10-25 07.28.10 - INFO  : New Connection (#13) from 127.0.0.1:1239 accepted
+2007-10-25 07.28.10 - NOTICE: ClientManager initialized for 127.0.0.1:1239
+2007-10-25 07.28.10 - NOTICE: ClientManager started for 127.0.0.1:1239
+2007-10-25 07.28.21 - NOTICE: Client Socket timeout
+2007-10-25 07.28.21 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.28.21 - NOTICE: Number of clients connected: 0
+2007-10-25 07.29.05 - INFO  : New Connection (#14) from 127.0.0.1:1240 accepted
+2007-10-25 07.29.05 - NOTICE: ClientManager initialized for 127.0.0.1:1240
+2007-10-25 07.29.05 - NOTICE: ClientManager started for 127.0.0.1:1240
+2007-10-25 07.29.22 - DEBUG : Newchannel - 1193290153.22 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193290153.22
+}
+
+2007-10-25 07.29.24 - DEBUG : Newchannel - 1193290155.23 {
+	Channel     : SIP/euteliavoip-082185e8
+	Uniqueid    : 1193290155.23
+}
+
+2007-10-25 07.29.26 - DEBUG : Link - 1193290155.23 {
+	Channel     : SIP/euteliavoip-082185e8
+	CallerIDNum : 908231765824
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193290155.23
+}
+
+2007-10-25 07.29.35 - DEBUG : Hangup - 1193290155.23 {
+	Channel     : SIP/euteliavoip-082185e8
+	CallerIDNum : 908231765824
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193290155.23
+}
+
+2007-10-25 07.29.35 - DEBUG : Hangup - 1193290153.22 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193290153.22
+}
+
+2007-10-25 07.29.45 - DEBUG : Newchannel - 1193290176.24 {
+	Channel     : SIP/300-08214678
+	Uniqueid    : 1193290176.24
+}
+
+2007-10-25 07.29.47 - DEBUG : Newchannel - 1193290178.25 {
+	Channel     : SIP/euteliavoip-082185e8
+	Uniqueid    : 1193290178.25
+}
+
+2007-10-25 07.29.47 - DEBUG : Link - 1193290178.25 {
+	Channel     : SIP/euteliavoip-082185e8
+	CallerIDNum : 908231765824
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193290178.25
+}
+
+2007-10-25 07.30.07 - DEBUG : Hangup - 1193290178.25 {
+	Channel     : SIP/euteliavoip-082185e8
+	CallerIDNum : 908231765824
+	CallerIDName: <Unknown>
+	Uniqueid    : 1193290178.25
+}
+
+2007-10-25 07.30.07 - DEBUG : Hangup - 1193290176.24 {
+	Channel     : SIP/300-08214678
+	CallerIDNum : <Unknown>
+	CallerIDName: SIP/300
+	Uniqueid    : 1193290176.24
+}
+
+2007-10-25 07.30.13 - NOTICE: Client Socket timeout
+2007-10-25 07.30.13 - INFO  : Client from 127.0.0.1 disconnected: Client Socket timeout
+2007-10-25 07.30.13 - NOTICE: Number of clients connected: 0
+2007-10-25 07.30.41 - DEBUG : In SocketManager::Connect()
+2007-10-25 07.30.42 - DEBUG : SocketManager::Connect(): Connecting Socket

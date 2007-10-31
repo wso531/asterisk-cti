@@ -1,0 +1,793 @@
+2007-10-10 00.49.15 - INFO  : Testing database connection
+2007-10-10 00.49.15 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-10 00.49.21 - DEBUG : Database connection successful
+2007-10-10 00.49.21 - DEBUG : Server can start
+2007-10-10 00.49.21 - NOTICE: Starting MainServer
+2007-10-10 00.49.21 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-10 00.49.21 - DEBUG : In SocketManager::Connect()
+2007-10-10 00.49.26 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-10 00.49.26 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-10 01.04.14 - INFO  : New Connection (#1) from 192.168.254.21:50660 accepted
+2007-10-10 01.04.14 - NOTICE: ClientManager initialized for 192.168.254.21:50660
+2007-10-10 01.04.14 - NOTICE: ClientManager started for 192.168.254.21:50660
+2007-10-10 01.04.26 - INFO  : Client from 192.168.254.21 disconnected: Remote client has closed the socket
+2007-10-10 01.04.26 - NOTICE: Number of clients connected: 0
+2007-10-10 01.04.28 - INFO  : New Connection (#2) from 192.168.254.21:50661 accepted
+2007-10-10 01.04.28 - NOTICE: ClientManager initialized for 192.168.254.21:50661
+2007-10-10 01.04.28 - NOTICE: ClientManager started for 192.168.254.21:50661
+2007-10-10 01.04.45 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.04.45 - NOTICE: Number of clients connected: 0
+2007-10-10 01.05.31 - INFO  : New Connection (#3) from 192.168.254.21:50663 accepted
+2007-10-10 01.05.31 - NOTICE: ClientManager initialized for 192.168.254.21:50663
+2007-10-10 01.05.32 - NOTICE: ClientManager started for 192.168.254.21:50663
+2007-10-10 01.05.38 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.05.38 - NOTICE: Number of clients connected: 0
+2007-10-10 01.05.49 - INFO  : New Connection (#4) from 192.168.254.21:50664 accepted
+2007-10-10 01.05.49 - NOTICE: ClientManager initialized for 192.168.254.21:50664
+2007-10-10 01.05.49 - NOTICE: ClientManager started for 192.168.254.21:50664
+2007-10-10 01.05.54 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.05.54 - NOTICE: Number of clients connected: 0
+2007-10-10 01.16.47 - INFO  : New Connection (#5) from 192.168.254.21:50666 accepted
+2007-10-10 01.16.47 - NOTICE: ClientManager initialized for 192.168.254.21:50666
+2007-10-10 01.16.47 - NOTICE: ClientManager started for 192.168.254.21:50666
+2007-10-10 01.17.23 - DEBUG : Newchannel - 1191971843.6 {
+	Channel     : SIP/300-0820fbb8
+	Uniqueid    : 1191971843.6
+}
+
+2007-10-10 01.17.23 - DEBUG : AppData - 1191971843.6 {
+	Channel     : SIP/300-0820fbb8
+	Uniqueid    : 1191971843.6
+	AppData     : 1234
+}
+
+2007-10-10 01.17.23 - DEBUG : Newchannel - 1191971843.7 {
+	Channel     : SIP/300-08215518
+	Uniqueid    : 1191971843.7
+}
+
+2007-10-10 01.17.31 - DEBUG : Hangup - 1191971843.7 {
+	Channel     : SIP/300-08215518
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191971843.7
+}
+
+2007-10-10 01.17.34 - DEBUG : Hangup - 1191971843.6 {
+	Channel     : SIP/300-0820fbb8
+	Uniqueid    : 1191971843.6
+	AppData     : 1234
+}
+
+2007-10-10 01.17.47 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.17.47 - NOTICE: Number of clients connected: 0
+2007-10-10 01.20.15 - INFO  : New Connection (#6) from 192.168.254.21:50670 accepted
+2007-10-10 01.20.15 - NOTICE: ClientManager initialized for 192.168.254.21:50670
+2007-10-10 01.20.15 - NOTICE: ClientManager started for 192.168.254.21:50670
+2007-10-10 01.20.15 - INFO  : Client from 192.168.254.21 disconnected: Remote client closed connection
+2007-10-10 01.20.15 - NOTICE: Number of clients connected: 0
+2007-10-10 01.22.37 - INFO  : New Connection (#7) from 192.168.254.21:50672 accepted
+2007-10-10 01.22.37 - NOTICE: ClientManager initialized for 192.168.254.21:50672
+2007-10-10 01.22.37 - NOTICE: ClientManager started for 192.168.254.21:50672
+2007-10-10 01.22.37 - INFO  : Client from 192.168.254.21 disconnected: Remote client closed connection
+2007-10-10 01.22.37 - NOTICE: Number of clients connected: 0
+2007-10-10 01.24.44 - INFO  : New Connection (#8) from 192.168.254.21:50674 accepted
+2007-10-10 01.24.44 - NOTICE: ClientManager initialized for 192.168.254.21:50674
+2007-10-10 01.24.44 - NOTICE: ClientManager started for 192.168.254.21:50674
+2007-10-10 01.24.44 - INFO  : New Connection (#9) from 192.168.254.21:50675 accepted
+2007-10-10 01.24.44 - NOTICE: ClientManager initialized for 192.168.254.21:50675
+2007-10-10 01.24.44 - NOTICE: ClientManager started for 192.168.254.21:50675
+2007-10-10 01.24.47 - INFO  : New Connection (#10) from 192.168.254.21:50676 accepted
+2007-10-10 01.24.47 - NOTICE: ClientManager initialized for 192.168.254.21:50676
+2007-10-10 01.24.47 - NOTICE: ClientManager started for 192.168.254.21:50676
+2007-10-10 01.24.47 - INFO  : Client from 192.168.254.21 disconnected: Remote client closed connection
+2007-10-10 01.24.47 - NOTICE: Number of clients connected: 2
+2007-10-10 01.24.49 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.24.49 - NOTICE: Number of clients connected: 1
+2007-10-10 01.24.54 - INFO  : New Connection (#11) from 192.168.254.21:50677 accepted
+2007-10-10 01.24.54 - NOTICE: ClientManager initialized for 192.168.254.21:50677
+2007-10-10 01.24.54 - NOTICE: ClientManager started for 192.168.254.21:50677
+2007-10-10 01.25.05 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.25.05 - NOTICE: Number of clients connected: 1
+2007-10-10 01.25.09 - INFO  : New Connection (#12) from 192.168.254.21:50678 accepted
+2007-10-10 01.25.09 - NOTICE: ClientManager initialized for 192.168.254.21:50678
+2007-10-10 01.25.09 - NOTICE: ClientManager started for 192.168.254.21:50678
+2007-10-10 01.25.12 - INFO  : New Connection (#13) from 192.168.254.21:50679 accepted
+2007-10-10 01.25.12 - NOTICE: ClientManager initialized for 192.168.254.21:50679
+2007-10-10 01.25.12 - NOTICE: ClientManager started for 192.168.254.21:50679
+2007-10-10 01.25.14 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.25.14 - NOTICE: Number of clients connected: 2
+2007-10-10 01.25.14 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.25.14 - NOTICE: Number of clients connected: 1
+2007-10-10 01.25.14 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.25.14 - NOTICE: Number of clients connected: 0
+2007-10-10 01.26.26 - INFO  : New Connection (#14) from 192.168.254.21:50681 accepted
+2007-10-10 01.26.26 - NOTICE: ClientManager initialized for 192.168.254.21:50681
+2007-10-10 01.26.26 - NOTICE: ClientManager started for 192.168.254.21:50681
+2007-10-10 01.26.43 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.26.43 - NOTICE: Number of clients connected: 0
+2007-10-10 01.27.25 - INFO  : New Connection (#15) from 192.168.254.21:50683 accepted
+2007-10-10 01.27.25 - NOTICE: ClientManager initialized for 192.168.254.21:50683
+2007-10-10 01.27.25 - NOTICE: ClientManager started for 192.168.254.21:50683
+2007-10-10 01.27.31 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.27.31 - NOTICE: Number of clients connected: 0
+2007-10-10 01.28.47 - INFO  : New Connection (#16) from 192.168.254.21:50685 accepted
+2007-10-10 01.28.47 - NOTICE: ClientManager initialized for 192.168.254.21:50685
+2007-10-10 01.28.47 - NOTICE: ClientManager started for 192.168.254.21:50685
+2007-10-10 01.28.55 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.28.55 - NOTICE: Number of clients connected: 0
+2007-10-10 01.29.00 - INFO  : New Connection (#17) from 192.168.254.21:50686 accepted
+2007-10-10 01.29.00 - NOTICE: ClientManager initialized for 192.168.254.21:50686
+2007-10-10 01.29.00 - NOTICE: ClientManager started for 192.168.254.21:50686
+2007-10-10 01.29.11 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.29.11 - NOTICE: Number of clients connected: 0
+2007-10-10 01.31.50 - INFO  : New Connection (#18) from 192.168.254.21:50688 accepted
+2007-10-10 01.31.50 - NOTICE: ClientManager initialized for 192.168.254.21:50688
+2007-10-10 01.31.50 - NOTICE: ClientManager started for 192.168.254.21:50688
+2007-10-10 01.32.44 - DEBUG : Newchannel - 1191972764.8 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191972764.8
+}
+
+2007-10-10 01.32.44 - DEBUG : AppData - 1191972764.8 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191972764.8
+	AppData     : 1234
+}
+
+2007-10-10 01.32.44 - DEBUG : Newchannel - 1191972764.9 {
+	Channel     : SIP/300-08212c48
+	Uniqueid    : 1191972764.9
+}
+
+2007-10-10 01.32.58 - DEBUG : Hangup - 1191972764.9 {
+	Channel     : SIP/300-08212c48
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191972764.9
+}
+
+2007-10-10 01.33.03 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.33.03 - NOTICE: Number of clients connected: 0
+2007-10-10 01.33.09 - DEBUG : Hangup - 1191972764.8 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191972764.8
+	AppData     : 1234
+}
+
+2007-10-10 01.33.34 - INFO  : New Connection (#19) from 192.168.254.21:50690 accepted
+2007-10-10 01.33.34 - NOTICE: ClientManager initialized for 192.168.254.21:50690
+2007-10-10 01.33.34 - NOTICE: ClientManager started for 192.168.254.21:50690
+2007-10-10 01.33.37 - DEBUG : Newchannel - 1191972817.10 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191972817.10
+}
+
+2007-10-10 01.33.37 - DEBUG : AppData - 1191972817.10 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191972817.10
+	AppData     : 1234
+}
+
+2007-10-10 01.33.37 - DEBUG : Newchannel - 1191972817.11 {
+	Channel     : SIP/300-08211018
+	Uniqueid    : 1191972817.11
+}
+
+2007-10-10 01.33.47 - DEBUG : Link - 1191972817.11 {
+	Channel     : SIP/300-08211018
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191972817.11
+}
+
+2007-10-10 01.33.51 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.33.51 - NOTICE: Number of clients connected: 0
+2007-10-10 01.33.59 - DEBUG : Hangup - 1191972817.11 {
+	Channel     : SIP/300-08211018
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191972817.11
+}
+
+2007-10-10 01.33.59 - DEBUG : Hangup - 1191972817.10 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191972817.10
+	AppData     : 1234
+}
+
+2007-10-10 01.35.55 - INFO  : New Connection (#20) from 192.168.254.21:50704 accepted
+2007-10-10 01.35.55 - NOTICE: ClientManager initialized for 192.168.254.21:50704
+2007-10-10 01.35.55 - NOTICE: ClientManager started for 192.168.254.21:50704
+2007-10-10 01.35.59 - DEBUG : Newchannel - 1191972958.12 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191972958.12
+}
+
+2007-10-10 01.35.59 - DEBUG : AppData - 1191972958.12 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191972958.12
+	AppData     : 1234
+}
+
+2007-10-10 01.35.59 - DEBUG : Newchannel - 1191972958.13 {
+	Channel     : SIP/300-08211018
+	Uniqueid    : 1191972958.13
+}
+
+2007-10-10 01.36.03 - DEBUG : Hangup - 1191972958.13 {
+	Channel     : SIP/300-08211018
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191972958.13
+}
+
+2007-10-10 01.36.05 - DEBUG : Hangup - 1191972958.12 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191972958.12
+	AppData     : 1234
+}
+
+2007-10-10 01.36.29 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.36.29 - NOTICE: Number of clients connected: 0
+2007-10-10 01.38.23 - INFO  : New Connection (#21) from 192.168.254.21:50706 accepted
+2007-10-10 01.38.23 - NOTICE: ClientManager initialized for 192.168.254.21:50706
+2007-10-10 01.38.23 - NOTICE: ClientManager started for 192.168.254.21:50706
+2007-10-10 01.38.27 - DEBUG : Newchannel - 1191973107.14 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191973107.14
+}
+
+2007-10-10 01.38.27 - DEBUG : AppData - 1191973107.14 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191973107.14
+	AppData     : 1234
+}
+
+2007-10-10 01.38.27 - DEBUG : Newchannel - 1191973107.15 {
+	Channel     : SIP/300-08212b30
+	Uniqueid    : 1191973107.15
+}
+
+2007-10-10 01.38.47 - DEBUG : Hangup - 1191973107.15 {
+	Channel     : SIP/300-08212b30
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191973107.15
+}
+
+2007-10-10 01.38.49 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.38.49 - NOTICE: Number of clients connected: 0
+2007-10-10 01.38.51 - DEBUG : Hangup - 1191973107.14 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191973107.14
+	AppData     : 1234
+}
+
+2007-10-10 01.49.05 - INFO  : New Connection (#22) from 192.168.254.21:50872 accepted
+2007-10-10 01.49.05 - NOTICE: ClientManager initialized for 192.168.254.21:50872
+2007-10-10 01.49.05 - NOTICE: ClientManager started for 192.168.254.21:50872
+2007-10-10 01.49.08 - DEBUG : Newchannel - 1191973747.16 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191973747.16
+}
+
+2007-10-10 01.49.08 - DEBUG : AppData - 1191973747.16 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191973747.16
+	AppData     : 1234
+}
+
+2007-10-10 01.49.08 - DEBUG : Newchannel - 1191973747.17 {
+	Channel     : SIP/300-08211018
+	Uniqueid    : 1191973747.17
+}
+
+2007-10-10 01.49.15 - DEBUG : Hangup - 1191973747.17 {
+	Channel     : SIP/300-08211018
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191973747.17
+}
+
+2007-10-10 01.49.30 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.49.30 - NOTICE: Number of clients connected: 0
+2007-10-10 01.53.06 - INFO  : Testing database connection
+2007-10-10 01.53.06 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-10 01.53.11 - DEBUG : Database connection successful
+2007-10-10 01.53.11 - DEBUG : Server can start
+2007-10-10 01.53.11 - NOTICE: Starting MainServer
+2007-10-10 01.53.11 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-10 01.53.11 - DEBUG : In SocketManager::Connect()
+2007-10-10 01.53.16 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-10 01.53.16 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-10 01.53.29 - DEBUG : Newchannel - 1191974008.21 {
+	Channel     : SIP/300-08215e08
+	Uniqueid    : 1191974008.21
+}
+
+2007-10-10 01.53.29 - DEBUG : AppData - 1191974008.21 {
+	Channel     : SIP/300-08215e08
+	Uniqueid    : 1191974008.21
+	AppData     : 1234
+}
+
+2007-10-10 01.53.29 - DEBUG : Newchannel - 1191974008.22 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191974008.22
+}
+
+2007-10-10 01.53.33 - DEBUG : Hangup - 1191974008.22 {
+	Channel     : SIP/300-0820e630
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191974008.22
+}
+
+2007-10-10 01.53.49 - INFO  : Testing database connection
+2007-10-10 01.53.49 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-10 01.53.55 - DEBUG : Database connection successful
+2007-10-10 01.53.55 - DEBUG : Server can start
+2007-10-10 01.53.55 - NOTICE: Starting MainServer
+2007-10-10 01.53.55 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-10 01.53.55 - DEBUG : In SocketManager::Connect()
+2007-10-10 01.53.59 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-10 01.53.59 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-10 01.54.02 - DEBUG : Newchannel - 1191974041.23 {
+	Channel     : SIP/300-08212f20
+	Uniqueid    : 1191974041.23
+}
+
+2007-10-10 01.54.02 - DEBUG : AppData - 1191974041.23 {
+	Channel     : SIP/300-08212f20
+	Uniqueid    : 1191974041.23
+	AppData     : 1234
+}
+
+2007-10-10 01.54.02 - DEBUG : Newchannel - 1191974041.24 {
+	Channel     : SIP/300-08211018
+	Uniqueid    : 1191974041.24
+}
+
+2007-10-10 01.54.10 - DEBUG : Hangup - 1191974041.24 {
+	Channel     : SIP/300-08211018
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191974041.24
+}
+
+2007-10-10 01.55.49 - INFO  : Testing database connection
+2007-10-10 01.55.49 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-10 01.55.55 - DEBUG : Database connection successful
+2007-10-10 01.55.55 - DEBUG : Server can start
+2007-10-10 01.55.55 - NOTICE: Starting MainServer
+2007-10-10 01.55.55 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-10 01.55.55 - DEBUG : In SocketManager::Connect()
+2007-10-10 01.55.59 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-10 01.55.59 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-10 01.56.06 - INFO  : New Connection (#1) from 192.168.254.21:50884 accepted
+2007-10-10 01.56.06 - NOTICE: ClientManager initialized for 192.168.254.21:50884
+2007-10-10 01.56.07 - NOTICE: ClientManager started for 192.168.254.21:50884
+2007-10-10 01.56.10 - DEBUG : Newchannel - 1191974169.27 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191974169.27
+}
+
+2007-10-10 01.56.10 - DEBUG : AppData - 1191974169.27 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191974169.27
+	AppData     : 1234
+}
+
+2007-10-10 01.56.10 - DEBUG : Newchannel - 1191974169.28 {
+	Channel     : SIP/300-082164b0
+	Uniqueid    : 1191974169.28
+}
+
+2007-10-10 01.56.14 - DEBUG : Hangup - 1191974169.28 {
+	Channel     : SIP/300-082164b0
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191974169.28
+}
+
+2007-10-10 01.56.16 - DEBUG : Hangup - 1191974169.27 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191974169.27
+	AppData     : 1234
+}
+
+2007-10-10 01.57.07 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 01.57.07 - NOTICE: Number of clients connected: 0
+2007-10-10 02.09.18 - INFO  : New Connection (#2) from 192.168.254.21:50893 accepted
+2007-10-10 02.09.18 - NOTICE: ClientManager initialized for 192.168.254.21:50893
+2007-10-10 02.09.18 - NOTICE: ClientManager started for 192.168.254.21:50893
+2007-10-10 02.09.23 - DEBUG : Newchannel - 1191974963.29 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191974963.29
+}
+
+2007-10-10 02.09.23 - DEBUG : AppData - 1191974963.29 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191974963.29
+	AppData     : 1234
+}
+
+2007-10-10 02.09.23 - DEBUG : Newchannel - 1191974963.30 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191974963.30
+}
+
+2007-10-10 02.09.27 - DEBUG : Link - 1191974963.30 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191974963.30
+}
+
+2007-10-10 02.10.19 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 02.10.19 - NOTICE: Number of clients connected: 0
+2007-10-10 02.11.31 - DEBUG : Hangup - 1191974963.30 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191974963.30
+}
+
+2007-10-10 02.11.31 - DEBUG : Hangup - 1191974963.29 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191974963.29
+	AppData     : 1234
+}
+
+2007-10-10 02.12.27 - INFO  : New Connection (#3) from 192.168.254.21:50895 accepted
+2007-10-10 02.12.27 - NOTICE: ClientManager initialized for 192.168.254.21:50895
+2007-10-10 02.12.27 - NOTICE: ClientManager started for 192.168.254.21:50895
+2007-10-10 02.12.28 - DEBUG : Newchannel - 1191975148.31 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975148.31
+}
+
+2007-10-10 02.12.28 - DEBUG : AppData - 1191975148.31 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975148.31
+	AppData     : 1234
+}
+
+2007-10-10 02.12.28 - DEBUG : Newchannel - 1191975148.32 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975148.32
+}
+
+2007-10-10 02.12.41 - DEBUG : Link - 1191975148.32 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975148.32
+}
+
+2007-10-10 02.12.49 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 02.12.49 - NOTICE: Number of clients connected: 0
+2007-10-10 02.13.59 - DEBUG : Hangup - 1191975148.32 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975148.32
+}
+
+2007-10-10 02.13.59 - DEBUG : Hangup - 1191975148.31 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975148.31
+	AppData     : 1234
+}
+
+2007-10-10 02.14.43 - INFO  : New Connection (#4) from 192.168.254.21:50911 accepted
+2007-10-10 02.14.43 - NOTICE: ClientManager initialized for 192.168.254.21:50911
+2007-10-10 02.14.43 - NOTICE: ClientManager started for 192.168.254.21:50911
+2007-10-10 02.14.46 - DEBUG : Newchannel - 1191975286.33 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975286.33
+}
+
+2007-10-10 02.14.46 - DEBUG : AppData - 1191975286.33 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975286.33
+	AppData     : 1234
+}
+
+2007-10-10 02.14.46 - DEBUG : Newchannel - 1191975286.34 {
+	Channel     : SIP/300-0820e630
+	Uniqueid    : 1191975286.34
+}
+
+2007-10-10 02.14.57 - DEBUG : Hangup - 1191975286.34 {
+	Channel     : SIP/300-0820e630
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975286.34
+}
+
+2007-10-10 02.15.00 - DEBUG : Hangup - 1191975286.33 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975286.33
+	AppData     : 1234
+}
+
+2007-10-10 02.15.22 - DEBUG : Newchannel - 1191975322.35 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975322.35
+}
+
+2007-10-10 02.15.22 - DEBUG : AppData - 1191975322.35 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975322.35
+	AppData     : 1234
+}
+
+2007-10-10 02.15.22 - DEBUG : Newchannel - 1191975322.36 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975322.36
+}
+
+2007-10-10 02.15.35 - DEBUG : Hangup - 1191975322.36 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975322.36
+}
+
+2007-10-10 02.15.37 - DEBUG : Hangup - 1191975322.35 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975322.35
+	AppData     : 1234
+}
+
+2007-10-10 02.15.40 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 02.15.40 - NOTICE: Number of clients connected: 0
+2007-10-10 02.15.45 - INFO  : New Connection (#5) from 192.168.254.21:50912 accepted
+2007-10-10 02.15.45 - NOTICE: ClientManager initialized for 192.168.254.21:50912
+2007-10-10 02.15.45 - NOTICE: ClientManager started for 192.168.254.21:50912
+2007-10-10 02.15.49 - DEBUG : Newchannel - 1191975348.37 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975348.37
+}
+
+2007-10-10 02.15.49 - DEBUG : AppData - 1191975348.37 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975348.37
+	AppData     : 1234
+}
+
+2007-10-10 02.15.49 - DEBUG : Newchannel - 1191975348.38 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975348.38
+}
+
+2007-10-10 02.15.54 - DEBUG : Hangup - 1191975348.38 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975348.38
+}
+
+2007-10-10 02.15.56 - DEBUG : Hangup - 1191975348.37 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975348.37
+	AppData     : 1234
+}
+
+2007-10-10 02.16.05 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 02.16.05 - NOTICE: Number of clients connected: 0
+2007-10-10 02.19.53 - INFO  : New Connection (#6) from 192.168.254.21:50914 accepted
+2007-10-10 02.19.53 - NOTICE: ClientManager initialized for 192.168.254.21:50914
+2007-10-10 02.19.53 - NOTICE: ClientManager started for 192.168.254.21:50914
+2007-10-10 02.19.55 - DEBUG : Newchannel - 1191975595.39 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975595.39
+}
+
+2007-10-10 02.19.55 - DEBUG : AppData - 1191975595.39 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975595.39
+	AppData     : 1234
+}
+
+2007-10-10 02.19.55 - DEBUG : Newchannel - 1191975595.40 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975595.40
+}
+
+2007-10-10 02.20.05 - DEBUG : Hangup - 1191975595.40 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975595.40
+}
+
+2007-10-10 02.20.05 - DEBUG : Hangup - 1191975595.39 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975595.39
+	AppData     : 1234
+}
+
+2007-10-10 02.20.10 - DEBUG : Newchannel - 1191975610.41 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975610.41
+}
+
+2007-10-10 02.20.10 - DEBUG : AppData - 1191975610.41 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975610.41
+	AppData     : 1234
+}
+
+2007-10-10 02.20.10 - DEBUG : Newchannel - 1191975610.42 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975610.42
+}
+
+2007-10-10 02.20.15 - DEBUG : Hangup - 1191975610.42 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975610.42
+}
+
+2007-10-10 02.20.18 - DEBUG : Hangup - 1191975610.41 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975610.41
+	AppData     : 1234
+}
+
+2007-10-10 02.20.20 - DEBUG : Newchannel - 1191975619.43 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975619.43
+}
+
+2007-10-10 02.20.20 - DEBUG : AppData - 1191975619.43 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975619.43
+	AppData     : 1234
+}
+
+2007-10-10 02.20.20 - DEBUG : Newchannel - 1191975619.44 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975619.44
+}
+
+2007-10-10 02.20.22 - DEBUG : Hangup - 1191975619.44 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975619.44
+}
+
+2007-10-10 02.20.22 - DEBUG : Hangup - 1191975619.43 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975619.43
+	AppData     : 1234
+}
+
+2007-10-10 02.20.26 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 02.20.26 - NOTICE: Number of clients connected: 0
+2007-10-10 02.21.00 - INFO  : New Connection (#7) from 192.168.254.21:50916 accepted
+2007-10-10 02.21.00 - NOTICE: ClientManager initialized for 192.168.254.21:50916
+2007-10-10 02.21.00 - NOTICE: ClientManager started for 192.168.254.21:50916
+2007-10-10 02.21.05 - DEBUG : Newchannel - 1191975664.45 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975664.45
+}
+
+2007-10-10 02.21.05 - DEBUG : AppData - 1191975664.45 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975664.45
+	AppData     : 1234
+}
+
+2007-10-10 02.21.05 - DEBUG : Newchannel - 1191975664.46 {
+	Channel     : SIP/300-082164b8
+	Uniqueid    : 1191975664.46
+}
+
+2007-10-10 02.21.08 - DEBUG : Hangup - 1191975664.46 {
+	Channel     : SIP/300-082164b8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975664.46
+}
+
+2007-10-10 02.21.08 - DEBUG : Hangup - 1191975664.45 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975664.45
+	AppData     : 1234
+}
+
+2007-10-10 02.21.11 - DEBUG : Newchannel - 1191975671.47 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975671.47
+}
+
+2007-10-10 02.21.11 - DEBUG : AppData - 1191975671.47 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975671.47
+	AppData     : 1234
+}
+
+2007-10-10 02.21.11 - DEBUG : Newchannel - 1191975671.48 {
+	Channel     : SIP/300-08216558
+	Uniqueid    : 1191975671.48
+}
+
+2007-10-10 02.21.14 - DEBUG : Hangup - 1191975671.48 {
+	Channel     : SIP/300-08216558
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975671.48
+}
+
+2007-10-10 02.21.14 - DEBUG : Hangup - 1191975671.47 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975671.47
+	AppData     : 1234
+}
+
+2007-10-10 02.21.16 - DEBUG : Newchannel - 1191975676.49 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975676.49
+}
+
+2007-10-10 02.21.16 - DEBUG : AppData - 1191975676.49 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975676.49
+	AppData     : 1234
+}
+
+2007-10-10 02.21.16 - DEBUG : Newchannel - 1191975676.50 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975676.50
+}
+
+2007-10-10 02.21.21 - DEBUG : Hangup - 1191975676.50 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975676.50
+}
+
+2007-10-10 02.21.21 - DEBUG : Hangup - 1191975676.49 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975676.49
+	AppData     : 1234
+}
+
+2007-10-10 02.21.23 - DEBUG : Newchannel - 1191975683.51 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975683.51
+}
+
+2007-10-10 02.21.23 - DEBUG : AppData - 1191975683.51 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975683.51
+	AppData     : 1234
+}
+
+2007-10-10 02.21.23 - DEBUG : Newchannel - 1191975683.52 {
+	Channel     : SIP/300-082162d8
+	Uniqueid    : 1191975683.52
+}
+
+2007-10-10 02.21.27 - DEBUG : Hangup - 1191975683.52 {
+	Channel     : SIP/300-082162d8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191975683.52
+}
+
+2007-10-10 02.21.29 - DEBUG : Hangup - 1191975683.51 {
+	Channel     : SIP/300-0820ccd0
+	Uniqueid    : 1191975683.51
+	AppData     : 1234
+}
+
+2007-10-10 02.22.01 - INFO  : Client from 192.168.254.21 disconnected: Socket in timeout
+2007-10-10 02.22.01 - NOTICE: Number of clients connected: 0

@@ -1,0 +1,26 @@
+2007-10-04 21.36.00 - NOTICE: Starting MainServer
+2007-10-04 21.36.00 - In SocketManager::Connect()
+2007-10-04 21.36.00 - SocketManager::Connect(): Connecting Socket
+2007-10-04 21.36.00 - SocketManager::Connect(): Connect Successful
+2007-10-04 21.36.00 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-04 21.36.00 - SocketManager::Connect(): Wait for data
+2007-10-04 21.36.00 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-04 21.36.00 - SocketManager::OnDataReceived(): Response: Success
+2007-10-04 21.36.00 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-04 21.36.00 - SocketManager::OnDataReceived(): 
+2007-10-04 21.39.39 - SocketManager::OnDataReceived(): Event: Registry
+2007-10-04 21.39.39 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-04 21.39.39 - SocketManager::OnDataReceived(): ChannelDriver: SIP
+2007-10-04 21.39.39 - SocketManager::OnDataReceived(): Domain: voip.eutelia.it
+2007-10-04 21.39.39 - SocketManager::OnDataReceived(): Status: Registered
+2007-10-04 21.39.39 - SocketManager::OnDataReceived(): 
+2007-10-04 21.39.51 - SocketManager::OnDataReceived(): Event: Registry
+2007-10-04 21.39.51 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-04 21.39.51 - SocketManager::OnDataReceived(): ChannelDriver: SIP
+2007-10-04 21.39.51 - SocketManager::OnDataReceived(): Domain: voip.eutelia.it
+2007-10-04 21.39.51 - SocketManager::OnDataReceived(): Status: Registered
+2007-10-04 21.39.51 - SocketManager::OnDataReceived(): 

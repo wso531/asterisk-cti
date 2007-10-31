@@ -1,0 +1,794 @@
+2007-10-07 05.29.59 - NOTICE: Starting MainServer
+2007-10-07 05.29.59 - In SocketManager::Connect()
+2007-10-07 05.29.59 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.29.59 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.29.59 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.29.59 - SocketManager::Connect(): Wait for data
+2007-10-07 05.30.20 - NOTICE: Starting MainServer
+2007-10-07 05.30.20 - In SocketManager::Connect()
+2007-10-07 05.30.20 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.30.20 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.30.20 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.30.20 - SocketManager::Connect(): Wait for data
+2007-10-07 05.30.21 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.30.21 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.30.21 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.30.21 - SocketManager::OnDataReceived(): 
+2007-10-07 05.31.04 - SocketManager::OnDataReceived(): Event: Shutdown
+2007-10-07 05.31.04 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-07 05.31.04 - SocketManager::OnDataReceived(): Shutdown: Cleanly
+2007-10-07 05.31.04 - SocketManager::OnDataReceived(): Restart: False
+2007-10-07 05.31.04 - SocketManager::OnDataReceived(): 
+2007-10-07 05.31.14 - In SocketManager::Connect()
+2007-10-07 05.31.14 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.31.14 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.31.14 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.31.14 - SocketManager::Connect(): Wait for data
+2007-10-07 05.31.14 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.31.14 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.31.14 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.31.14 - SocketManager::OnDataReceived(): 
+2007-10-07 05.32.52 - NOTICE: Starting MainServer
+2007-10-07 05.32.52 - In SocketManager::Connect()
+2007-10-07 05.32.52 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.32.52 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.32.52 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.32.52 - SocketManager::Connect(): Wait for data
+2007-10-07 05.32.52 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.32.52 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.32.52 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.32.52 - SocketManager::OnDataReceived(): 
+2007-10-07 05.33.12 - NOTICE: Starting MainServer
+2007-10-07 05.33.12 - In SocketManager::Connect()
+2007-10-07 05.33.12 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.33.12 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.33.12 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.33.12 - SocketManager::Connect(): Wait for data
+2007-10-07 05.33.12 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.33.12 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.33.12 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.33.12 - SocketManager::OnDataReceived(): 
+2007-10-07 05.33.17 - SocketManager::OnDataReceived(): Event: Shutdown
+2007-10-07 05.33.17 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-07 05.33.17 - SocketManager::OnDataReceived(): Shutdown: Cleanly
+2007-10-07 05.33.17 - SocketManager::OnDataReceived(): Restart: False
+2007-10-07 05.33.17 - SocketManager::OnDataReceived(): 
+2007-10-07 05.33.27 - In SocketManager::Connect()
+2007-10-07 05.33.27 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.33.27 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.33.27 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.33.27 - SocketManager::Connect(): Wait for data
+2007-10-07 05.33.27 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.33.27 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.33.27 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.33.27 - SocketManager::OnDataReceived(): 
+2007-10-07 05.34.00 - NOTICE: Starting MainServer
+2007-10-07 05.34.01 - In SocketManager::Connect()
+2007-10-07 05.34.01 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.34.01 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.34.01 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.34.01 - SocketManager::Connect(): Wait for data
+2007-10-07 05.34.01 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.34.01 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.34.01 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.34.01 - SocketManager::OnDataReceived(): 
+2007-10-07 05.34.03 - SocketManager::OnDataReceived(): Event: Shutdown
+2007-10-07 05.34.03 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-07 05.34.03 - SocketManager::OnDataReceived(): Shutdown: Cleanly
+2007-10-07 05.34.03 - SocketManager::OnDataReceived(): Restart: False
+2007-10-07 05.34.03 - SocketManager::OnDataReceived(): 
+2007-10-07 05.34.13 - In SocketManager::Connect()
+2007-10-07 05.34.13 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.34.13 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.34.13 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.34.13 - SocketManager::Connect(): Wait for data
+2007-10-07 05.34.13 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.34.13 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.34.13 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.34.13 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.22 - NOTICE: Starting MainServer
+2007-10-07 05.38.22 - In SocketManager::Connect()
+2007-10-07 05.38.23 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.38.23 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.38.23 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.38.23 - SocketManager::Connect(): Wait for data
+2007-10-07 05.38.23 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.38.23 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.38.23 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.38.23 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Event: PeerStatus
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Peer: SIP/300
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): PeerStatus: Registered
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Event: PeerStatus
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Privilege: system,all
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Peer: SIP/300
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): PeerStatus: Reachable
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): Time: 54
+2007-10-07 05.38.43 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): Event: Newchannel
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): State: Down
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): CallerIDNum: 300
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): CallerIDName: Bruno Salzano
+2007-10-07 05.38.55 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.57 - Newchannel - 1191728336.0 {
+	Channel     : SIP/300-09980aa0
+	Uniqueid    : 1191728336.0
+}
+
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Event: Newstate
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): State: Ring
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): CallerID: 300
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): CallerIDName: Bruno Salzano
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Context: interferenza
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Extension: 301
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Priority: 1
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Application: Macro
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): AppData: internaldial|301|SIP/301
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Extension: s
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Priority: 1
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Application: Set
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): AppData: calldata=1234
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.57 - AppData - 1191728336.0 {
+	Channel     : SIP/300-09980aa0
+	Uniqueid    : 1191728336.0
+	AppData     : 1234
+}
+
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Extension: s
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Priority: 2
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Application: Dial
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): AppData: SIP/301|20
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Extension: s
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Priority: 3
+2007-10-07 05.38.57 - SocketManager::OnDataReceived(): Application: Goto
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): AppData: ext-CHANUNAVAIL|1
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Extension: ext-CHANUNAVAIL
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Priority: 1
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Application: Goto
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): AppData: ext-TRYMAILBOX|1
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Extension: ext-TRYMAILBOX
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Priority: 1
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Application: MailboxExists
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): AppData: 301
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Extension: ext-TRYMAILBOX
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Priority: 2
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Application: GotoIf
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): AppData: 1?5
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Extension: ext-TRYMAILBOX
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Priority: 5
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Application: VoiceMail
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): AppData: 301|u
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): 
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Event: Newstate
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): State: Up
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): CallerID: 300
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): CallerIDName: Bruno Salzano
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.38.58 - SocketManager::OnDataReceived(): 
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): Event: Hangup
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): Channel: SIP/300-09980aa0
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): Uniqueid: 1191728336.0
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): Cause: 3
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): Cause-txt: No route to destination
+2007-10-07 05.39.00 - Hangup - 1191728336.0 {
+	Channel     : SIP/300-09980aa0
+	Uniqueid    : 1191728336.0
+	AppData     : 1234
+}
+
+2007-10-07 05.39.00 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.15 - NOTICE: Starting MainServer
+2007-10-07 05.42.15 - In SocketManager::Connect()
+2007-10-07 05.42.15 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.42.15 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.42.15 - SocketManager::SendData(): Action: Login
+Username: bruno
+Secret: salzano
+
+
+2007-10-07 05.42.15 - SocketManager::Connect(): Wait for data
+2007-10-07 05.42.15 - SocketManager::OnDataReceived(): Asterisk Call Manager/1.0
+2007-10-07 05.42.15 - SocketManager::OnDataReceived(): Response: Success
+2007-10-07 05.42.15 - SocketManager::OnDataReceived(): Message: Authentication accepted
+2007-10-07 05.42.15 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newchannel
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-0997d588
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): State: Down
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDNum: 300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDName: Bruno Salzano
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.1
+2007-10-07 05.42.26 - Newchannel - 1191728547.1 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191728547.1
+}
+
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newstate
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-0997d588
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): State: Ring
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerID: 300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDName: Bruno Salzano
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.1
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-0997d588
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Context: interferenza
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Extension: 300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Priority: 1
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Application: Macro
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): AppData: internaldial|300|SIP/300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.1
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-0997d588
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Extension: s
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Priority: 1
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Application: Set
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): AppData: calldata=1234
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.1
+2007-10-07 05.42.26 - AppData - 1191728547.1 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191728547.1
+	AppData     : 1234
+}
+
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newexten
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-0997d588
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Context: macro-internaldial
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Extension: s
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Priority: 2
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Application: Dial
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): AppData: SIP/300|20
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.1
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newchannel
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-09983970
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): State: Down
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDNum: <unknown>
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDName: <unknown>
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.2
+2007-10-07 05.42.26 - Newchannel - 1191728547.2 {
+	Channel     : SIP/300-09983970
+	Uniqueid    : 1191728547.2
+}
+
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Dial
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Source: SIP/300-0997d588
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Destination: SIP/300-09983970
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerID: 300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDName: Bruno Salzano
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): SrcUniqueID: 1191728547.1
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): DestUniqueID: 1191728547.2
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newcallerid
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-09983970
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerID: 300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDName: <Unknown>
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.2
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CID-CallingPres: 0 (Presentation Allowed, Not Screened)
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Event: Newstate
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Channel: SIP/300-09983970
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): State: Ringing
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerID: 300
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): CallerIDName: <unknown>
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.2
+2007-10-07 05.42.26 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Event: Hangup
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Channel: SIP/300-09983970
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.2
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Cause: 16
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Cause-txt: Normal Clearing
+2007-10-07 05.42.31 - Hangup - 1191728547.2 {
+	Channel     : SIP/300-09983970
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191728547.2
+}
+
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): 
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Event: Hangup
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Privilege: call,all
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Channel: SIP/300-0997d588
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Uniqueid: 1191728547.1
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Cause: 0
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): Cause-txt: Unknown
+2007-10-07 05.42.31 - Hangup - 1191728547.1 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191728547.1
+	AppData     : 1234
+}
+
+2007-10-07 05.42.31 - SocketManager::OnDataReceived(): 
+2007-10-07 05.44.07 - NOTICE: Starting MainServer
+2007-10-07 05.44.07 - In SocketManager::Connect()
+2007-10-07 05.44.07 - SocketManager::Connect(): Connecting Socket
+2007-10-07 05.44.07 - SocketManager::Connect(): Connect Successful
+2007-10-07 05.44.07 - SocketManager::Connect(): Wait for data
+2007-10-07 05.44.15 - Newchannel - 1191728655.3 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191728655.3
+}
+
+2007-10-07 05.44.15 - AppData - 1191728655.3 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191728655.3
+	AppData     : 1234
+}
+
+2007-10-07 05.44.15 - Newchannel - 1191728655.4 {
+	Channel     : SIP/300-09980e90
+	Uniqueid    : 1191728655.4
+}
+
+2007-10-07 05.44.19 - Hangup - 1191728655.4 {
+	Channel     : SIP/300-09980e90
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191728655.4
+}
+
+2007-10-07 05.44.19 - Hangup - 1191728655.3 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191728655.3
+	AppData     : 1234
+}
+
+2007-10-07 06.15.48 - INFO  : Testing database connection
+2007-10-07 06.15.48 - Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 06.15.49 - Database connection successful
+2007-10-07 06.15.49 - Server can start
+2007-10-07 06.15.49 - NOTICE: Starting MainServer
+2007-10-07 06.15.49 - In SocketManager::Connect()
+2007-10-07 06.15.49 - SocketManager::Connect(): Connecting Socket
+2007-10-07 06.15.49 - SocketManager::Connect(): Connect Successful
+2007-10-07 06.19.56 - INFO  : Testing database connection
+2007-10-07 06.19.56 - Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 06.19.56 - Database connection successful
+2007-10-07 06.19.56 - Server can start
+2007-10-07 06.19.56 - NOTICE: Starting MainServer
+2007-10-07 06.19.56 - In SocketManager::Connect()
+2007-10-07 06.19.56 - SocketManager::Connect(): Connecting Socket
+2007-10-07 06.19.56 - SocketManager::Connect(): Connect Successful
+2007-10-07 06.20.01 - FATAL : System.InvalidOperationException: The connection property has not been set.
+   in MySql.Data.MySqlClient.MySqlCommand.Prepare()
+   in AstCTIServer.AsteriskCall.GetEndPoint() in C:\netproj\AstCTIServer\AstCTIServer\Server.cs:riga 404
+2007-10-07 06.20.01 - Newchannel - 1191730801.5 {
+	Channel     : SIP/300-09983230
+	Uniqueid    : 1191730801.5
+}
+
+2007-10-07 06.20.01 - AppData - 1191730801.5 {
+	Channel     : SIP/300-09983230
+	Uniqueid    : 1191730801.5
+	AppData     : 1234
+}
+
+2007-10-07 06.20.01 - FATAL : System.InvalidOperationException: The connection property has not been set.
+   in MySql.Data.MySqlClient.MySqlCommand.Prepare()
+   in AstCTIServer.AsteriskCall.GetEndPoint() in C:\netproj\AstCTIServer\AstCTIServer\Server.cs:riga 404
+2007-10-07 06.20.01 - Newchannel - 1191730801.6 {
+	Channel     : SIP/300-099847b8
+	Uniqueid    : 1191730801.6
+}
+
+2007-10-07 06.20.04 - Hangup - 1191730801.6 {
+	Channel     : SIP/300-099847b8
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191730801.6
+}
+
+2007-10-07 06.20.04 - Hangup - 1191730801.5 {
+	Channel     : SIP/300-09983230
+	Uniqueid    : 1191730801.5
+	AppData     : 1234
+}
+
+2007-10-07 06.21.49 - INFO  : Testing database connection
+2007-10-07 06.21.49 - Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 06.21.49 - Database connection successful
+2007-10-07 06.21.49 - Server can start
+2007-10-07 06.21.49 - NOTICE: Starting MainServer
+2007-10-07 06.21.49 - In SocketManager::Connect()
+2007-10-07 06.21.49 - SocketManager::Connect(): Connecting Socket
+2007-10-07 06.21.49 - SocketManager::Connect(): Connect Successful
+2007-10-07 06.21.57 - NOTICE: No client found for dest SIP/300
+2007-10-07 06.21.57 - Newchannel - 1191730916.7 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191730916.7
+}
+
+2007-10-07 06.21.57 - AppData - 1191730916.7 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191730916.7
+	AppData     : 1234
+}
+
+2007-10-07 06.21.57 - NOTICE: No client found for dest SIP/300
+2007-10-07 06.21.57 - Newchannel - 1191730916.8 {
+	Channel     : SIP/300-09980aa0
+	Uniqueid    : 1191730916.8
+}
+
+2007-10-07 06.22.08 - Hangup - 1191730916.8 {
+	Channel     : SIP/300-09980aa0
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191730916.8
+}
+
+2007-10-07 06.22.08 - Hangup - 1191730916.7 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191730916.7
+	AppData     : 1234
+}
+
+2007-10-07 06.23.09 - INFO  : Testing database connection
+2007-10-07 06.23.09 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 06.23.09 - DEBUG : Database connection successful
+2007-10-07 06.23.09 - DEBUG : Server can start
+2007-10-07 06.23.09 - NOTICE: Starting MainServer
+2007-10-07 06.23.09 - DEBUG : In SocketManager::Connect()
+2007-10-07 06.23.09 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 06.23.09 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 06.23.22 - NOTICE: No client found for dest SIP/300
+2007-10-07 06.23.22 - DEBUG : Newchannel - 1191731002.9 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191731002.9
+}
+
+2007-10-07 06.23.22 - DEBUG : AppData - 1191731002.9 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191731002.9
+	AppData     : 1234
+}
+
+2007-10-07 06.23.22 - NOTICE: No client found for dest SIP/300
+2007-10-07 06.23.22 - DEBUG : Newchannel - 1191731002.10 {
+	Channel     : SIP/300-09983488
+	Uniqueid    : 1191731002.10
+}
+
+2007-10-07 06.23.28 - DEBUG : Hangup - 1191731002.10 {
+	Channel     : SIP/300-09983488
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191731002.10
+}
+
+2007-10-07 06.23.28 - DEBUG : Hangup - 1191731002.9 {
+	Channel     : SIP/300-0997d588
+	Uniqueid    : 1191731002.9
+	AppData     : 1234
+}
+
+2007-10-07 07.47.01 - INFO  : Testing database connection
+2007-10-07 07.47.01 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 07.47.01 - DEBUG : Database connection successful
+2007-10-07 07.47.01 - DEBUG : Server can start
+2007-10-07 07.47.01 - NOTICE: Starting MainServer
+2007-10-07 07.47.01 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 07.47.20 - INFO  : New Connection (#1) from 127.0.0.1:3275 accepted
+2007-10-07 07.47.20 - NOTICE: ClientManager initialized for 127.0.0.1:3275
+2007-10-07 07.47.20 - NOTICE: ClientManager started for 127.0.0.1:3275
+2007-10-07 07.47.29 - INFO  : Client from 127.0.0.1 disconnected: Remote client has closed the socket
+2007-10-07 07.47.29 - NOTICE: Number of clients connected: 0
+2007-10-07 07.47.40 - INFO  : New Connection (#2) from 127.0.0.1:3276 accepted
+2007-10-07 07.47.40 - NOTICE: ClientManager initialized for 127.0.0.1:3276
+2007-10-07 07.47.40 - NOTICE: ClientManager started for 127.0.0.1:3276
+2007-10-07 07.47.47 - INFO  : Client from 127.0.0.1 disconnected: Remote client has closed the socket
+2007-10-07 07.47.47 - NOTICE: Number of clients connected: 0
+2007-10-07 15.56.59 - INFO  : Testing database connection
+2007-10-07 15.56.59 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 15.57.02 - DEBUG : Database connection successful
+2007-10-07 15.57.02 - DEBUG : Server can start
+2007-10-07 15.57.02 - NOTICE: Starting MainServer
+2007-10-07 15.57.02 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 15.58.47 - INFO  : Testing database connection
+2007-10-07 15.58.47 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 15.58.47 - DEBUG : Database connection successful
+2007-10-07 15.58.47 - DEBUG : Server can start
+2007-10-07 15.58.47 - NOTICE: Starting MainServer
+2007-10-07 15.58.47 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 15.59.01 - INFO  : New Connection (#1) from 127.0.0.1:3415 accepted
+2007-10-07 15.59.06 - NOTICE: ClientManager initialized for 127.0.0.1:3415
+2007-10-07 15.59.06 - NOTICE: ClientManager started for 127.0.0.1:3415
+2007-10-07 15.59.16 - ERRROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'System.Collections.DictionaryEntry' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 16.00.17 - INFO  : Client from 127.0.0.1 disconnected: Socket in timeout
+2007-10-07 16.00.17 - NOTICE: Number of clients connected: 0
+2007-10-07 16.04.27 - INFO  : Testing database connection
+2007-10-07 16.04.27 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 16.04.28 - DEBUG : Database connection successful
+2007-10-07 16.04.28 - DEBUG : Server can start
+2007-10-07 16.04.28 - NOTICE: Starting MainServer
+2007-10-07 16.04.28 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 16.04.42 - INFO  : New Connection (#1) from 127.0.0.1:3503 accepted
+2007-10-07 16.04.42 - NOTICE: ClientManager initialized for 127.0.0.1:3503
+2007-10-07 16.04.42 - NOTICE: ClientManager started for 127.0.0.1:3503
+2007-10-07 16.04.45 - ERRROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'AstCTIServer.ClientManager' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 16.04.49 - ERRROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'AstCTIServer.ClientManager' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 16.04.56 - ERRROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'AstCTIServer.ClientManager' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 22.02.14 - INFO  : Testing database connection
+2007-10-07 22.02.14 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.21;user id=root;Password=rundllbrsoft
+2007-10-07 22.02.15 - ERRROR: Database connection is not avaiable. Exiting
+2007-10-07 22.18.38 - INFO  : Testing database connection
+2007-10-07 22.18.38 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.18.43 - DEBUG : Database connection successful
+2007-10-07 22.18.43 - DEBUG : Server can start
+2007-10-07 22.18.43 - NOTICE: Starting MainServer
+2007-10-07 22.18.43 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.24.16 - INFO  : Testing database connection
+2007-10-07 22.24.16 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.24.22 - DEBUG : Database connection successful
+2007-10-07 22.24.22 - DEBUG : Server can start
+2007-10-07 22.24.22 - NOTICE: Starting MainServer
+2007-10-07 22.24.22 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.26.25 - INFO  : Testing database connection
+2007-10-07 22.26.25 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.26.30 - DEBUG : Database connection successful
+2007-10-07 22.26.30 - DEBUG : Server can start
+2007-10-07 22.26.30 - NOTICE: Starting MainServer
+2007-10-07 22.26.30 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.26.52 - INFO  : Testing database connection
+2007-10-07 22.26.52 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.26.58 - DEBUG : Database connection successful
+2007-10-07 22.26.58 - DEBUG : Server can start
+2007-10-07 22.26.58 - NOTICE: Starting MainServer
+2007-10-07 22.26.58 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.27.10 - INFO  : Testing database connection
+2007-10-07 22.27.10 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.27.16 - DEBUG : Database connection successful
+2007-10-07 22.27.16 - DEBUG : Server can start
+2007-10-07 22.27.16 - NOTICE: Starting MainServer
+2007-10-07 22.27.21 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.27.26 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.27.26 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.28.25 - INFO  : Testing database connection
+2007-10-07 22.28.25 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.28.31 - DEBUG : Database connection successful
+2007-10-07 22.28.31 - DEBUG : Server can start
+2007-10-07 22.28.31 - NOTICE: Starting MainServer
+2007-10-07 22.28.31 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.28.31 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.28.35 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.28.35 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.29.35 - INFO  : New Connection (#1) from 192.168.254.21:49472 accepted
+2007-10-07 22.29.35 - NOTICE: ClientManager initialized for 192.168.254.21:49472
+2007-10-07 22.29.35 - NOTICE: ClientManager started for 192.168.254.21:49472
+2007-10-07 22.29.41 - ERRROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'AstCTIServer.ClientManager' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 22.29.48 - ERRROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'AstCTIServer.ClientManager' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 22.30.06 - INFO  : Client from 192.168.254.21 disconnected: Remote client has closed the socket
+2007-10-07 22.30.06 - NOTICE: Number of clients connected: 0
+2007-10-07 22.35.00 - INFO  : Testing database connection
+2007-10-07 22.35.01 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.35.06 - DEBUG : Database connection successful
+2007-10-07 22.35.06 - DEBUG : Server can start
+2007-10-07 22.35.06 - NOTICE: Starting MainServer
+2007-10-07 22.35.06 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.35.06 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.35.10 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.35.10 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.35.39 - INFO  : New Connection (#1) from 127.0.0.1:49500 accepted
+2007-10-07 22.35.39 - NOTICE: ClientManager initialized for 127.0.0.1:49500
+2007-10-07 22.35.39 - NOTICE: ClientManager started for 127.0.0.1:49500
+2007-10-07 22.35.41 - ERROR: System.InvalidCastException: Impossibile eseguire il cast di oggetti di tipo 'AstCTIServer.ClientManager' sul tipo 'AstCTIServer.CTIOperator'.
+   in AstCTIServer.ClientManager.Manager() in C:\netproj\AstCTIServer\AstCTIServer\ClientManager.cs:riga 200
+2007-10-07 22.35.48 - INFO  : Client from 127.0.0.1 disconnected: Remote client has closed the socket
+2007-10-07 22.35.48 - NOTICE: Number of clients connected: 0
+2007-10-07 22.46.03 - INFO  : Testing database connection
+2007-10-07 22.46.03 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.46.09 - DEBUG : Database connection successful
+2007-10-07 22.46.09 - DEBUG : Server can start
+2007-10-07 22.46.09 - NOTICE: Starting MainServer
+2007-10-07 22.46.09 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.46.09 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.46.14 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.46.14 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.46.34 - INFO  : New Connection (#1) from 127.0.0.1:49534 accepted
+2007-10-07 22.46.34 - NOTICE: ClientManager initialized for 127.0.0.1:49534
+2007-10-07 22.46.34 - NOTICE: ClientManager started for 127.0.0.1:49534
+2007-10-07 22.51.09 - INFO  : Testing database connection
+2007-10-07 22.51.09 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.51.15 - DEBUG : Database connection successful
+2007-10-07 22.51.15 - DEBUG : Server can start
+2007-10-07 22.51.15 - NOTICE: Starting MainServer
+2007-10-07 22.51.15 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.51.15 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.51.19 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.51.19 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.51.21 - INFO  : New Connection (#1) from 127.0.0.1:49543 accepted
+2007-10-07 22.51.21 - NOTICE: ClientManager initialized for 127.0.0.1:49543
+2007-10-07 22.51.21 - NOTICE: ClientManager started for 127.0.0.1:49543
+2007-10-07 22.53.44 - INFO  : Testing database connection
+2007-10-07 22.53.44 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.53.49 - DEBUG : Database connection successful
+2007-10-07 22.53.49 - DEBUG : Server can start
+2007-10-07 22.53.49 - NOTICE: Starting MainServer
+2007-10-07 22.53.49 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.53.49 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.53.54 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.53.54 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.54.05 - INFO  : New Connection (#1) from 127.0.0.1:49547 accepted
+2007-10-07 22.54.05 - NOTICE: ClientManager initialized for 127.0.0.1:49547
+2007-10-07 22.54.05 - NOTICE: ClientManager started for 127.0.0.1:49547
+2007-10-07 22.55.08 - INFO  : Testing database connection
+2007-10-07 22.55.08 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.55.13 - DEBUG : Database connection successful
+2007-10-07 22.55.13 - DEBUG : Server can start
+2007-10-07 22.55.13 - NOTICE: Starting MainServer
+2007-10-07 22.55.13 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.55.13 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.55.18 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.55.18 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.55.20 - INFO  : New Connection (#1) from 127.0.0.1:49551 accepted
+2007-10-07 22.55.20 - NOTICE: ClientManager initialized for 127.0.0.1:49551
+2007-10-07 22.55.20 - NOTICE: ClientManager started for 127.0.0.1:49551
+2007-10-07 22.58.10 - INFO  : Testing database connection
+2007-10-07 22.58.10 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 22.58.15 - DEBUG : Database connection successful
+2007-10-07 22.58.15 - DEBUG : Server can start
+2007-10-07 22.58.15 - NOTICE: Starting MainServer
+2007-10-07 22.58.15 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 22.58.15 - DEBUG : In SocketManager::Connect()
+2007-10-07 22.58.17 - INFO  : New Connection (#1) from 127.0.0.1:49558 accepted
+2007-10-07 22.58.17 - NOTICE: ClientManager initialized for 127.0.0.1:49558
+2007-10-07 22.58.17 - NOTICE: ClientManager started for 127.0.0.1:49558
+2007-10-07 22.58.20 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 22.58.20 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 22.58.27 - INFO  : Client from 127.0.0.1 disconnected: Remote client closed connection
+2007-10-07 22.58.27 - NOTICE: Number of clients connected: 0
+2007-10-07 23.26.17 - INFO  : Testing database connection
+2007-10-07 23.26.17 - DEBUG : Connecting to: Persist Security Info=False;database=test;server=192.168.254.96;user id=root;Password=rundllbrsoft
+2007-10-07 23.26.22 - DEBUG : Database connection successful
+2007-10-07 23.26.22 - DEBUG : Server can start
+2007-10-07 23.26.22 - NOTICE: Starting MainServer
+2007-10-07 23.26.22 - INFO  : CTIServer Listening on 0.0.0.0:9000
+2007-10-07 23.26.22 - DEBUG : In SocketManager::Connect()
+2007-10-07 23.26.27 - DEBUG : SocketManager::Connect(): Connecting Socket
+2007-10-07 23.26.27 - DEBUG : SocketManager::Connect(): Connect Successful
+2007-10-07 23.26.41 - DEBUG : Found client :0 for dest SIP/300
+2007-10-07 23.26.41 - FATAL : System.FormatException: Specificato un indirizzo IP non valido.
+   in System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   in System.Net.IPAddress.Parse(String ipString)
+   in AstCTIServer.AsteriskCall.GetEndPoint() in C:\netproj\AstCTIServer\AstCTIServer\Server.cs:riga 430
+2007-10-07 23.26.41 - DEBUG : Newchannel - 1191792400.2 {
+	Channel     : SIP/300-081fe078
+	Uniqueid    : 1191792400.2
+}
+
+2007-10-07 23.26.41 - DEBUG : Found client :0 for dest SIP/300
+2007-10-07 23.26.41 - FATAL : System.FormatException: Specificato un indirizzo IP non valido.
+   in System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   in System.Net.IPAddress.Parse(String ipString)
+   in AstCTIServer.AsteriskCall.GetEndPoint() in C:\netproj\AstCTIServer\AstCTIServer\Server.cs:riga 430
+2007-10-07 23.26.41 - DEBUG : Newchannel - 1191792400.3 {
+	Channel     : SIP/300-08205e88
+	Uniqueid    : 1191792400.3
+}
+
+2007-10-07 23.26.46 - DEBUG : Hangup - 1191792400.3 {
+	Channel     : SIP/300-08205e88
+	CallerIDNum : 300
+	CallerIDName: <Unknown>
+	Uniqueid    : 1191792400.3
+}
+
+2007-10-07 23.26.46 - DEBUG : Hangup - 1191792400.2 {
+	Channel     : SIP/300-081fe078
+	Uniqueid    : 1191792400.2
+}
+
