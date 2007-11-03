@@ -61,7 +61,7 @@ You can copy dialplan demo from the file extension.conf and paste it into your a
 
 After this, copy the folder asterisk/sounds/astctidemo to your /var/lib/asterisk/sounds directory.
 
-Restart your asterisk dialplan (asterisk -rx "extensions reload").
+Restart your asterisk dialplan (`asterisk -rx "extensions reload"`).
 
 The demo consists of two things:
 *1) Demo at extension "100":*
@@ -74,7 +74,9 @@ The same as extension 100, but the call is sent to a queue (with only one agent,
 
 In both demo, the important part is the function:
 
+{{{
 exten => 101,3,Set(calldata=${cdata})
+}}}
 
 This function is read from AstCTIServer and the value of the calldata variable is then sent to the AstCTIClient once the Link event occurs. So you've to always set a variable called "calldata" before send the call to the clients.
 
