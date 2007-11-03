@@ -4,6 +4,7 @@ First of all, you need a working MySQL. In my tests, I've used mysql 5.0.x. You 
 
 Here is the Sql syntax (check also the file Docs\cti.sql):
 
+{{{
 CREATE TABLE `cti` (
   `USERNAME` varchar(255) default NULL,
   `SECRET` varchar(255) default NULL,
@@ -12,10 +13,13 @@ CREATE TABLE `cti` (
   UNIQUE KEY `USERNAME` (`USERNAME`),
   UNIQUE KEY `EXT` (`EXT`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+}}}
 
 This table will contains credential used by the AstCTIServer to authenticate the clients. The passwords are stored as MD5 hash. After creating the cti table, you need to create almost one user. Sorry, but there's no configuration panel yet, so you've to do this job by hand using sql syntax like the following:
 
+{{{
 INSERT INTO cti VALUES('test',MD5('test'),'0.0.0.0','');
+}}}
 
 The AstCTIClient will update the database with the informations required by the AstCTIServer during logon.
 
@@ -115,4 +119,3 @@ CTIOutboundContextes are contextes where we can originate outbound calls. In the
 Once all the parameters are well setup, make sure that AstCTIServer is running and that it's connected to asterisk. Then make a login with the right credential.
 
 Now you can make some test calls from another phone to the extension 100 or 101... Good Luck!
-
