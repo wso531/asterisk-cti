@@ -558,7 +558,12 @@ namespace AstCTIClient
 
         void ExecCTIApplication(CTIContext ctx, AsteriskCall call)
         {
-
+            if (!File.Exists(ctx.Application))
+            {
+                GenericStringAction scf = new GenericStringAction(this.MessageBoxShow);
+                scf.Invoke(string.Format("Invalid application path in Context: {0}", ctx.DisplayName));
+                return;
+            }
             string parameters = ctx.Parameters;
             if (parameters != null)
             {
@@ -601,7 +606,7 @@ namespace AstCTIClient
 
         void MessageBoxShow(string message)
         {
-            MessageBox.Show(this, message,"AstCTIClient", MessageBoxButtons.OK,MessageBoxIcon.Information);
+            MessageBox.Show(null, message,"AstCTIClient", MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
 
         #region Metodi per l'INVOKE
