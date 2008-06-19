@@ -1,0 +1,16 @@
+#summary SVN Project Updates.
+#labels Featured
+
+= AstCTIServer =
+
+
+|| *Date* || *Change* || 
+|| 2008-06-19 || Improved support for MySql.Data connection strings on mono GNU/Linux ||
+
+----
+
+= AstCTIClient =
+|| *Date* || *Change* || 
+|| 2008-06-19 || Localization support (Italian / English) ||
+|| 2008-06-19 || Added configurable internal browser  ||
+|| 2008-06-19 || Added registry settings to lock user access to settings or outbound contextes  ||
