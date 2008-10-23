@@ -5,6 +5,7 @@
 
 
 || *Date* || *Change* || 
+|| 2008-10-24 || Added code to fix callerid bug ||
 || 2008-06-19 || Improved support for MySql.Data connection strings on mono GNU/Linux ||
 
 ----
