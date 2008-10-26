@@ -5,10 +5,7 @@
 
 
 || *Date* || *Change* ||
-|| 2008-10-26 || Added support for Spanish and Mexican language. Thanks to Bernardov ||
-|| 2008-10-26 || Fixed bug in localization. ||
-|| 2008-10-25 || Reload config and UI settings after closing Settings Manager form. Added font selection || 
-|| 2008-10-25 || Added support for Russian Language. Thanks to datak (Miroslav Dunaev) ||
+|| 2008-10-24 || Updated MySql.Data to 5.2.3 ||
 || 2008-10-24 || Added code to fix callerid bug ||
 || 2008-06-19 || Improved support for MySql.Data connection strings on mono GNU/Linux ||
 
@@ -16,6 +13,12 @@
 
 = AstCTIClient =
 || *Date* || *Change* || 
+|| 2008-10-26 || Added support for Spanish and Mexican language. Thanks to Bernardov ||
+|| 2008-10-26 || Fixed bug in localization. ||
+|| 2008-10-25 || Reload config and UI settings after closing Settings Manager form. Added font selection || 
+|| 2008-10-25 || Added support for Russian Language. Thanks to datak (Miroslav Dunaev) ||
+|| 2008-10-24 || Updated MySql.Data to 5.2.3 ||
+|| 2008-10-24 || Added code to fix callerid bug ||
 || 2008-06-19 || Localization support (Italian / English) ||
 || 2008-06-19 || Added configurable internal browser  ||
 || 2008-06-19 || Added registry settings to lock user access to settings or outbound contextes  ||
