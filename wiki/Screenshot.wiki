@@ -16,6 +16,10 @@ Some Screenshot of the Client
 ----
 [http://asterisk-cti.googlecode.com/svn/trunk/Docs/Screenshots/astcti003.jpg http://asterisk-cti.googlecode.com/svn/trunk/Docs/Screenshots/astcti003.jpg]
 
+* Chinese Translation *
+----
+[http://asterisk-cti.googlecode.com/svn/trunk/Docs/Screenshots/astcti005.jpg http://asterisk-cti.googlecode.com/svn/trunk/Docs/Screenshots/astcti005.jpg]
+
 * Russian Translation *
 ----
 [http://asterisk-cti.googlecode.com/svn/trunk/Docs/Screenshots/astcti004.jpg http://asterisk-cti.googlecode.com/svn/trunk/Docs/Screenshots/astcti004.jpg]
