@@ -52,11 +52,13 @@ If all is right configured, the server should start (check the logs in the logs/
 In order to get the AstCTIClient work, we can do a basic dialplan configuration.
 In the directory Docs/Demo you'll find the following files:
 
+  * asterisk/manager.conf
   * asterisk/extensions.conf
   * asterisk/sip.conf
   * asterisk/queues.conf
   * asterisk/sounds/astctidemo/enter_five_digits.wav
 
+First of all, you should check that asterisk AMI accepts connections from AsteriskCTI Server. So you’ve to add an user to the file asterisk/manager.conf that will match AstCTIServer configuration. Check demo file for an example.
 You can copy dialplan demo from the file extension.conf and paste it into your asterisk dialplan. Then you've to copy sip agents from sip.conf to your asterisk sip.conf file and the same for the queues.conf. Adjust all the parameters to match your needs.
 
 After this, copy the folder asterisk/sounds/astctidemo to your /var/lib/asterisk/sounds directory.
